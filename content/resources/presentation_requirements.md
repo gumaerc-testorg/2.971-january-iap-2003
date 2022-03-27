@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 252b2e7c-1da6-ad66-34ae-83fb1a685696
 resourcetype: Document
 title: Second Summer Program Presentation Outline
 uid: 1e1b597d-6afa-ae83-b624-5df09bd8b2fb

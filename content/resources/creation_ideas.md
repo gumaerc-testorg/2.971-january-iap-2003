@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 252b2e7c-1da6-ad66-34ae-83fb1a685696
 resourcetype: Document
 title: Generating and Creating Ideas
 uid: a85eca40-4265-bb29-67dd-5c2538ef3a55

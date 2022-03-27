@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 3a38d26e-1443-bad2-7011-244cf41f317b
 resourcetype: Image
 title: Spring Loaded Bed Lifter/Loft
 uid: f9403d15-3061-6510-5349-36cb6fa70c7f

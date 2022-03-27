@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 252b2e7c-1da6-ad66-34ae-83fb1a685696
 resourcetype: Document
 title: Design is a ? Passionate ? Process
 uid: a2924aa5-84c7-86ec-fb85-f99dfd8f03a1
