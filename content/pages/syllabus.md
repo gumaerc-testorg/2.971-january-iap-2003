@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on the course objective, meeting
+  times, theme, a solid modeling and best model contest, grading, lectures, labs and
+  safety, quizzes, the text book, design notebooks, milestone reports, and the final
+  presentation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
