@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: ElectroMug
 uid: 37b38a36-db27-f95d-797c-38b876c68305
 ---
 Image of a project produced for the 1998 version of the course. ElectroMug - Keeps your coffee warm on the way to work.
-

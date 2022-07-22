@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Spring Loaded Bed Lifter/Loft
 uid: f9403d15-3061-6510-5349-36cb6fa70c7f
 ---
 Image of a project produced for the 1998 version of the course. Spring Loaded Bed Lifter/Loft - Lofts bed, freeing up extra storage space underneath.
-

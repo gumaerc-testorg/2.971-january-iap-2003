@@ -6,6 +6,7 @@ file: /courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/a85eca40
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Generating and Creating Ideas
 uid: a85eca40-4265-bb29-67dd-5c2538ef3a55
 ---
 Handout on generating and creating ideas. Topics include thought processes, experimentation, drawing, research, writing, analysis, and evolving ideas.
-

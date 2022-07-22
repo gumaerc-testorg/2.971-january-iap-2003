@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: SpinStack
 uid: 4c2cee82-07c8-1066-6cf6-0780c3b6273c
 ---
 Image of a project produced for the 1998 version of the course. SpinStack - Rotary book cases saves space and makes acces to books easier.
-

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Kid Travel Kit
 uid: 652b1443-1c26-4acb-e22f-1930e10fe8d0
 ---
 Image of a project produced for the 1998 version of the course. Kid Travel Kit - Kit contains a multitude of toys and games to keep kids occupied during road trips or for quiet time at home.
-

@@ -5,6 +5,7 @@ file: /courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/1e1b597d
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Second Summer Program Presentation Outline
 uid: 1e1b597d-6afa-ae83-b624-5df09bd8b2fb
 ---
 Requirements and guidelines for a final presentation on a design project.
-

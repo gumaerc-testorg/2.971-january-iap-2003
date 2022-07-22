@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: Illuminator 2000
 uid: f72d3163-a7b8-cd87-f692-cb250797fa93
 ---
 Image of a project produced for the 1998 version of the course. CAD model of the Illuminator 2000.
-
