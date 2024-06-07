@@ -5,6 +5,7 @@ description: Image of a project produced for the 1998 version of the course. WIN
   won grand prize AND $2000 from Ford Motor Company to cover patent costs of their
   invention. Photo of invention being used.
 file: /courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/f86bfa5afdd70dc504925f5394bc380c_98_holdnfold_in_car.jpg
+file_size: 9891
 file_type: image/jpeg
 image_metadata:
   caption: ''
