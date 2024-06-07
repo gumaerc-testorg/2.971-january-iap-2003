@@ -3,6 +3,7 @@ content_type: resource
 description: Image of a project produced for the 1998 version of the course. Screw
   Activated Bed Lifter/Loft - Lofts bed, freeing up extra storage space underneath.
 file: /courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/ef1e02c251db4b3048ac195237670e4d_98_screw_bed_lifter.gif
+file_size: 3144
 file_type: image/gif
 image_metadata:
   caption: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: Image of a project produced for the 1998 version of the course. CAD model
   of the Illuminator 2000.
 file: /courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/f72d3163a7b8cd87f692cb250797fa93_98_desk_drawer_illuminator.gif
+file_size: 11169
 file_type: image/gif
 image_metadata:
   caption: ''
