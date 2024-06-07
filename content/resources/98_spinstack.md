@@ -3,6 +3,7 @@ content_type: resource
 description: Image of a project produced for the 1998 version of the course. SpinStack
   - Rotary book cases saves space and makes acces to books easier.
 file: /courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/4c2cee8207c810666cf60780c3b6273c_98_spinstack.gif
+file_size: 4963
 file_type: image/gif
 image_metadata:
   caption: ''

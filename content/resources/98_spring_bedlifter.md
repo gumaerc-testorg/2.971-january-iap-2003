@@ -3,6 +3,7 @@ content_type: resource
 description: Image of a project produced for the 1998 version of the course. Spring
   Loaded Bed Lifter/Loft - Lofts bed, freeing up extra storage space underneath.
 file: /courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/f9403d1530616510534936cb6fa70c7f_98_spring_bedlifter.gif
+file_size: 2978
 file_type: image/gif
 image_metadata:
   caption: ''
