@@ -3,7 +3,7 @@ content_type: resource
 description: Image of a project produced for the 1998 version of the course. Sholly
   - Combination dolly and bookshelf saves dorm room storage space and makes moving
   in/out easier.
-file: /ol-ocw-studio-app/courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/873ceab730a68b5d0942b208724a8bfc_98_sholly.gif
+file: /courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/873ceab730a68b5d0942b208724a8bfc_98_sholly.gif
 file_size: 9151
 file_type: image/gif
 image_metadata:
